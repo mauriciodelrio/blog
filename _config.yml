@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Mauricio Del Río
+email: mauricio.delrioz@alumnos.usm.cl
+description: "Hola! Bienvenido a mi blog. He pensado manifestar acá diversos temas de interés personal. Una de las cosas que más me entretiene es poder manifestar - con la mayor humildad posible - mi punto de vista. No me considero experto en ningún tema en particular pero precisamente busco en este espacio un lugar donde plasmar mis ideas ¡Bienvenidos a mi espacio personal!"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: mauro_1904
+github_username:  mauriciodelrio
+facebook_username: mauricio.delriozorrilla.5
+head_foot: Contacto
+contacto: Mail
+
+# Build settings
+markdown: kramdown
